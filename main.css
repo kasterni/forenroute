@@ -320,4 +320,8 @@ h1 {
   .social-wrapper, .mobile-none {
     display: none!important;
   }
+    
+    img {
+        display: block!important;
+    }
 }
